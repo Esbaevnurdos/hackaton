@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "placeName": "Karakhan Mausoleum Updated",
+    "rating": 4.9,
+    "description": "Updated description",
+    "photoURLs": [],
+    "comments": [],
+    "longitude": 71.366,
+    "latitude": 42.852
+  },
+  {
+    "id": "2",
+    "placeName": "Karakhan",
+    "rating": 4.9,
+    "description": "Updated description",
+    "photoURLs": [],
+    "comments": [
+      "comment from post"
+    ],
+    "longitude": 71.366,
+    "latitude": 42.852
+  }
+]
